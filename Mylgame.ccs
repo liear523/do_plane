@@ -1,0 +1,21 @@
+<Solution>
+  <PropertyGroup Name="Mylgame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="shoot_background.png" PListFile="shoot_background.plist" Name=".shoot_background_PList.Dir">
+          <PlistImageFile Name="background.png" Key="background.png" />
+          <PlistImageFile Name="btn_finish.png" Key="btn_finish.png" />
+          <PlistImageFile Name="game_loading1.png" Key="game_loading1.png" />
+          <PlistImageFile Name="game_loading2.png" Key="game_loading2.png" />
+          <PlistImageFile Name="game_loading3.png" Key="game_loading3.png" />
+          <PlistImageFile Name="game_loading4.png" Key="game_loading4.png" />
+          <PlistImageFile Name="gameover.png" Key="gameover.png" />
+          <PlistImageFile Name="shoot_copyright.png" Key="shoot_copyright.png" />
+        </PlistImageFolder>
+        <Project Name="Scene.csd" Type="Scene" />
+        <Project Name="Layer_background.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
